@@ -5,3 +5,5 @@ input_video
 yolo11x.pt
 *.pt
 data.yaml
+*/*DATA
+*/*data
