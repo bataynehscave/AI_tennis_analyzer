@@ -7,3 +7,7 @@ yolo11x.pt
 data.yaml
 */*DATA
 */*data
+datasets
+*.pth
+
+training/ball_data.yaml
