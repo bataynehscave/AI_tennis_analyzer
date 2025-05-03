@@ -9,5 +9,6 @@ data.yaml
 */*data
 datasets
 *.pth
+output_videos
 
 training/ball_data.yaml
